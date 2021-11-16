@@ -1,0 +1,53 @@
+{
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/netinfo": "^6.2.1",
+    "@react-native-masked-view/masked-view": "0.2.4",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/stack": "^6.0.11",
+    "apisauce": "^2.1.2",
+    "axios": "^0.24.0",
+    "expo": "^43.0.3",
+    "expo-app-loading": "1.1.2",
+    "expo-av": "~9.2.3",
+    "expo-constants": "~11.0.1",
+    "expo-image-picker": "~10.2.2",
+    "expo-linking": "~2.3.1",
+    "expo-secure-store": "~10.2.0",
+    "expo-splash-screen": "~0.11.2",
+    "expo-status-bar": "~1.0.4",
+    "expo-system-ui": "^1.0.0",
+    "expo-updates": "~0.8.1",
+    "formik": "2.1.4",
+    "jwt-decode": "^3.1.2",
+    "lodash": "^4.17.21",
+    "lottie-react-native": "4.0.2",
+    "moment": "^2.29.1",
+    "pusher-js": "^7.0.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.4",
+    "react-native-calendar-range-picker": "^1.5.3",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-phone-call": "^1.0.9",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-unimodules": "0.14.10",
+    "react-native-virtual-keyboard": "^1.2.0",
+    "react-native-web": "~0.13.12",
+    "yup": "0.29.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true,
+  "name": "callerApp-main",
+  "version": "1.0.0"
+}

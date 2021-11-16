@@ -1,0 +1,22 @@
+export default {
+    black_50: '#A3A3A3',
+    black_70: '#787878',
+    white: '#FFF',
+    success: '#08DF78',
+    warning: '#FA5825',
+    white_50: '#F2F2F2',
+    danger_50: '#E7C9C9',
+    info_50: '#73E0EF',
+    dark_50: '#434242',
+    dark_light: '#EBEBEB',
+    dark_70: '#898686',
+    info_light: '#F0F4F9',
+    medium_lighter: '#F6F6F6',
+    success_light: '#F8FbF9',
+    info: '#32ABBB',
+    success_light: '#EBFAF3',
+    medium: '#8B8282',
+    danger_light: '#FFF4F0',
+    muted: '#F4F4F4',
+    black_50: '#E5E5E5'
+}
